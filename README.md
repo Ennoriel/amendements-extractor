@@ -1,0 +1,1 @@
+AWS lambda function that fetch new amendements every hour to get censored content
