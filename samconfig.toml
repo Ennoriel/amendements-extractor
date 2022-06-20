@@ -1,0 +1,10 @@
+version = 0.1
+[default]
+[default.deploy]
+[default.deploy.parameters]
+stack_name = "amendements-extractor"
+s3_bucket = "aws-sam-cli-managed-default-samclisourcebucket-zwbjyi7kqzy8"
+s3_prefix = "amendements-extractor"
+region = "eu-west-3"
+capabilities = "CAPABILITY_IAM"
+image_repositories = []
