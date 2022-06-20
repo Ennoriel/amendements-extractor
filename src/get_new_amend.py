@@ -251,7 +251,7 @@ def check_nb_amendements(html_lxml, date_search):
 		return 0
 
 
-def lambda_handler(event, context):
+def do_work():
 
 	date_search = (date.today() - timedelta(days=1)).strftime("%d/%m/%Y")
 	page = 1

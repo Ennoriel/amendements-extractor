@@ -1,5 +1,5 @@
 from os import environ
-from utils import download_file, get_node_text
+from src.utils import download_file
 from lxml import html
 from re import search, compile
 from functools import reduce

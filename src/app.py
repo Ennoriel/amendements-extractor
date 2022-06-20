@@ -1,6 +1,8 @@
+from get_new_amend import do_work
+
 def lambda_handler(event, context):
 
-    print('Hello les haricots!')
+    do_work()
 
     return {
         "statusCode": 200,
