@@ -22,3 +22,5 @@ Resources:
         Variables:
           MONGO_URL: __MONGO_URL__
           MONGO_DB: __MONGO_DB__
+          AN_URL: https://www.assemblee-nationale.fr
+          ENV: prod
