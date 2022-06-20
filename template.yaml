@@ -3,7 +3,7 @@ Transform: AWS::Serverless-2016-10-31
 Description: amendements-extractor
 
 Resources:
-  HelloWorldFunction:
+  extractor:
     Type: AWS::Serverless::Function
     Properties:
       CodeUri: src/
