@@ -55,6 +55,12 @@ my_rule = {
 
 @LogDecorator()
 def download_file(url):
+	"""
+	If in dev mode, read the file locally, otherwise downloads it and saves it (<filename>.err if it failed to do so)
+	Otherwise, in production, always downloads it
+	:param url:
+	:return:
+	"""
 	local_file_name = 'html_pages/{}.html'.format(url.replace('/', '-').replace('?', '-').replace(':', '-'))
 
 	if is_dev and os.path.isfile(local_file_name + '.err'):
@@ -78,7 +84,6 @@ def download_file(url):
 			print(page.content.decode(encoding='cp1252', errors='ignore'))
 			return None
 
-	print(page.content.decode(encoding='UTF-8'))
 	return page.content.decode(encoding='UTF-8')
 
 
@@ -87,6 +92,7 @@ def get_data(html_lxml, rule):
 	df = DataFrame()
 	columns = ['web_uri', ] + [e['value'] for e in rule['data']]
 
+	# parse the amendement list result and gets the uri, amendement_no, sort_initial and text_no
 	for item_nb in range(rule['item_start'], rule['item_end']):
 		# try:
 		dom_elements = html_lxml.xpath(rule['web_uri']['xpath'].format(
@@ -132,6 +138,7 @@ def get_data(html_lxml, rule):
 
 	web_uris = df["web_uri"].to_list()
 
+	# Check if data is already in DB
 	records = client.find({"web_uri": {"$in": web_uris}}, {"_id": 0, "web_uri": 1})
 	records = list(records)
 	print('{} records found in DB'.format(len(records)))
@@ -144,9 +151,9 @@ def get_data(html_lxml, rule):
 		# all data are stored in db
 		raise KeyError()
 
+	# For all amendement, downloads and parses it
 	df = df.__deepcopy__()
 	df["api_uri"] = df["web_uri"].apply(search_api_uri)
-
 	s_from_json = df["api_uri"].apply(get_df_from_json)
 	s_from_json.index = list(range(s_from_json.size))
 
@@ -176,6 +183,11 @@ def get_data(html_lxml, rule):
 
 @LogDecorator()
 def get_df_from_json(api_uri):
+	"""
+	Downloads a given amendement and gets the dataframe raw for it
+	:param api_uri:
+	:return:
+	"""
 	raw_content = download_file(os.environ['AN_URL'] + api_uri)
 	json_content = loads(raw_content)
 	
@@ -197,6 +209,11 @@ def get_df_from_json(api_uri):
 
 
 def remove_unwanted_html_markup(text):
+	"""
+	Remove unwanted html markup (spacing <p> tags)
+	:param text:
+	:return:
+	"""
 	if not text:
 		return None
 	tmp = text
@@ -223,6 +240,11 @@ def get_json_val(json, keys, is_str=True):
 
 
 def search_api_uri(web_uri):
+	"""
+	Downloads a given amendement and gets its final url
+	:param web_uri:
+	:return:
+	"""
 	html_content = download_file(os.environ['AN_URL'] + web_uri)
 	html_lxml = html.fromstring(html_content)
 	documents_html = html_lxml.xpath("//*[@id=\"amendementCard\"]/div[1]/div[2]/ul")[0]
@@ -231,6 +253,14 @@ def search_api_uri(web_uri):
 
 
 def check_nb_amendements(html_lxml, date_search):
+	"""
+	FIXME verify it is working (no document found)
+	Check the nb of amendements found in the search (the nb of amendements is displayed on the page search)
+	If it is outdated or different from the last search, it stores the new config in the db
+	:param html_lxml:
+	:param date_search:
+	:return: nb of amendements found if outdated or different than before, 0 otherwise
+	"""
 	config = client_config.find_one({})
 	print(config)
 	if 'nb_amendements' not in config or config['date_dernier_releve'] != date_search:

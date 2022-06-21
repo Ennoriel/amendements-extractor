@@ -1,4 +1,4 @@
-from logger import LogDecorator
+from src.logger import LogDecorator
 from os import path, environ
 from requests import get
 from re import compile
