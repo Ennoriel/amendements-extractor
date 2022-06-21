@@ -1,0 +1,5772 @@
+[
+  {
+    "place": "s1",
+    "id": "605036",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Damien Abad",
+    "departement": "Ain "
+  },
+  {
+    "place": "s2",
+    "id": "719866",
+    "civ": "Mme",
+    "circo": "(8 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Caroline Abadie",
+    "departement": "Isère "
+  },
+  {
+    "place": "s3",
+    "id": "795228",
+    "civ": "Mme",
+    "circo": "(10 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Nadège Abomangoli",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s5",
+    "id": "719146",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Jean-Félix Acquaviva",
+    "departement": "Haute-Corse "
+  },
+  {
+    "place": "s6",
+    "id": "722038",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Damien Adam",
+    "departement": "Seine-Maritime "
+  },
+  {
+    "place": "s7",
+    "id": "793278",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Sabrina Agresti-Roubache",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s8",
+    "id": "605963",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Éric Alauzet",
+    "departement": "Doubs "
+  },
+  {
+    "place": "s9",
+    "id": "794278",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Xavier Albertini",
+    "departement": "Marne "
+  },
+  {
+    "place": "s10",
+    "id": "793262",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Laurent Alexandre",
+    "departement": "Aveyron "
+  },
+  {
+    "place": "s11",
+    "id": "793992",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Henri Alfandari",
+    "departement": "Indre-et-Loire "
+  },
+  {
+    "place": "s12",
+    "id": "793432",
+    "civ": "M.",
+    "circo": "(12 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Franck Allisio",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s13",
+    "id": "794906",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Gabriel Amard",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s14",
+    "id": "795950",
+    "civ": "M.",
+    "circo": "(13 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "David Amiel",
+    "departement": "Paris "
+  },
+  {
+    "place": "s15",
+    "id": "794138",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Ségolène Amiot",
+    "departement": "Loire-Atlantique "
+  },
+  {
+    "place": "s16",
+    "id": "795588",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Farida Amrani",
+    "departement": "Essonne "
+  },
+  {
+    "place": "s17",
+    "id": "721158",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Pieyre-Alexandre Anglade",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s18",
+    "id": "719318",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Emmanuelle Anthoine",
+    "departement": "Drôme "
+  },
+  {
+    "place": "s19",
+    "id": "719100",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean-Philippe Ardouin",
+    "departement": "Charente-Maritime "
+  },
+  {
+    "place": "s20",
+    "id": "795084",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Rodrigo Arenas",
+    "departement": "Paris "
+  },
+  {
+    "place": "s21",
+    "id": "795144",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Antoine Armand",
+    "departement": "Haute-Savoie "
+  },
+  {
+    "place": "s22",
+    "id": "793780",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Christine Arrighi",
+    "departement": "Haute-Garonne "
+  },
+  {
+    "place": "s23",
+    "id": "722190",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Gabriel Attal",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s24",
+    "id": "588884",
+    "civ": "Mme",
+    "circo": "(11 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Clémentine Autain",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s25",
+    "id": "796118",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Bénédicte Auzanot",
+    "departement": "Vaucluse "
+  },
+  {
+    "place": "s26",
+    "id": "642764",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Joël Aviragnet",
+    "departement": "Haute-Garonne "
+  },
+  {
+    "place": "s27",
+    "id": "793560",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Anne-Laure Babault",
+    "departement": "Charente-Maritime "
+  },
+  {
+    "place": "s28",
+    "id": "719558",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Erwan Balanant",
+    "departement": "Finistère "
+  },
+  {
+    "place": "s30",
+    "id": "794562",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Philippe Ballard",
+    "departement": "Oise "
+  },
+  {
+    "place": "s31",
+    "id": "720256",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Géraldine Bannier",
+    "departement": "Mayenne "
+  },
+  {
+    "place": "s32",
+    "id": "643143",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Christian Baptiste",
+    "departement": "Guadeloupe "
+  },
+  {
+    "place": "s33",
+    "id": "721836",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Jean-Noël Barrot",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s35",
+    "id": "793238",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Christophe Barthès",
+    "departement": "Aude "
+  },
+  {
+    "place": "s36",
+    "id": "721046",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Nathalie Bassire",
+    "departement": "Réunion "
+  },
+  {
+    "place": "s38",
+    "id": "794214",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Quentin Bataillon",
+    "departement": "Loire "
+  },
+  {
+    "place": "s39",
+    "id": "335999",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Delphine Batho",
+    "departement": "Deux-Sèvres "
+  },
+  {
+    "place": "s40",
+    "id": "342415",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Marie-Noëlle Battistel",
+    "departement": "Isère "
+  },
+  {
+    "place": "s41",
+    "id": "721522",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Xavier Batut",
+    "departement": "Seine-Maritime "
+  },
+  {
+    "place": "s43",
+    "id": "793374",
+    "civ": "M.",
+    "circo": "(15 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Romain Baubry",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s44",
+    "id": "795058",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Julien Bayou",
+    "departement": "Paris "
+  },
+  {
+    "place": "s45",
+    "id": "642847",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Thibault Bazin",
+    "departement": "Meurthe-et-Moselle "
+  },
+  {
+    "place": "s47",
+    "id": "718884",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Valérie Bazin-Malgras",
+    "departement": "Aube "
+  },
+  {
+    "place": "s48",
+    "id": "774109",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Clément Beaune",
+    "departement": "Paris "
+  },
+  {
+    "place": "s75",
+    "id": "793158",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "José Beaurain",
+    "departement": "Aisne "
+  },
+  {
+    "place": "s49",
+    "id": "642935",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Olivier Becht",
+    "departement": "Haut-Rhin "
+  },
+  {
+    "place": "s50",
+    "id": "720362",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Belkhir Belhaddad",
+    "departement": "Moselle "
+  },
+  {
+    "place": "s51",
+    "id": "719910",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Mounir Belhamiti",
+    "departement": "Loire-Atlantique "
+  },
+  {
+    "place": "s52",
+    "id": "795278",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Béatrice Bellamy",
+    "departement": "Vendée "
+  },
+  {
+    "place": "s53",
+    "id": "795362",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Lisa Belluco",
+    "departement": "Vienne "
+  },
+  {
+    "place": "s54",
+    "id": "795454",
+    "civ": "M.",
+    "circo": "(9 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Karim Ben Cheikh",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s56",
+    "id": "332228",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Thierry Benoit",
+    "departement": "Ille-et-Vilaine "
+  },
+  {
+    "place": "s57",
+    "id": "794434",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Christophe Bentz",
+    "departement": "Haute-Marne "
+  },
+  {
+    "place": "s58",
+    "id": "722046",
+    "civ": "Mme",
+    "circo": "(10 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Aurore Bergé",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s59",
+    "id": "720430",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Ugo Bernalicis",
+    "departement": "Nord "
+  },
+  {
+    "place": "s60",
+    "id": "719488",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Philippe Berta",
+    "departement": "Gard "
+  },
+  {
+    "place": "s62",
+    "id": "794522",
+    "civ": "M.",
+    "circo": "(15 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Pierrick Berteloot",
+    "departement": "Nord "
+  },
+  {
+    "place": "s63",
+    "id": "719218",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Hervé Berville",
+    "departement": "Côtes-d'Armor "
+  },
+  {
+    "place": "s64",
+    "id": "309643",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Non inscrit",
+    "sigle": "NI",
+    "nom": "Véronique Besse",
+    "departement": "Vendée "
+  },
+  {
+    "place": "s66",
+    "id": "793772",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Christophe Bex",
+    "departement": "Haute-Garonne "
+  },
+  {
+    "place": "s67",
+    "id": "720822",
+    "civ": "M.",
+    "circo": "(12 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Bruno Bilde",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s68",
+    "id": "795616",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Carlos Martens Bilongo",
+    "departement": "Val-d'Oise "
+  },
+  {
+    "place": "s70",
+    "id": "720668",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Emmanuel Blairy",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s71",
+    "id": "794886",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Sophie Blanc",
+    "departement": "Pyrénées-Orientales "
+  },
+  {
+    "place": "s72",
+    "id": "719024",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Christophe Blanchet",
+    "departement": "Calvados "
+  },
+  {
+    "place": "s73",
+    "id": "774954",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Anne-Laure Blin",
+    "departement": "Maine-et-Loire "
+  },
+  {
+    "place": "s489",
+    "id": "796042",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Frédéric Boccaletti",
+    "departement": "Var "
+  },
+  {
+    "place": "s77",
+    "id": "720162",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Philippe Bolo",
+    "departement": "Maine-et-Loire "
+  },
+  {
+    "place": "s78",
+    "id": "793444",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Manuel Bompard",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s79",
+    "id": "721410",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Émilie Bonnivard",
+    "departement": "Savoie "
+  },
+  {
+    "place": "s80",
+    "id": "266793",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Jean-Yves Bony",
+    "departement": "Cantal "
+  },
+  {
+    "place": "s81",
+    "id": "793500",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Benoît Bordat",
+    "departement": "Côte-d'Or "
+  },
+  {
+    "place": "s82",
+    "id": "793844",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Pascale Bordes",
+    "departement": "Gard "
+  },
+  {
+    "place": "s83",
+    "id": "717161",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Élisabeth Borne",
+    "departement": "Calvados "
+  },
+  {
+    "place": "s84",
+    "id": "642695",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Éric Bothorel",
+    "departement": "Côtes-d'Armor "
+  },
+  {
+    "place": "s85",
+    "id": "721816",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Ian Boucard",
+    "departement": "Territoire de Belfort "
+  },
+  {
+    "place": "s86",
+    "id": "606507",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Florent Boudié",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s87",
+    "id": "794094",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Mickaël Bouloux",
+    "departement": "Ille-et-Vilaine "
+  },
+  {
+    "place": "s88",
+    "id": "794938",
+    "civ": "M.",
+    "circo": "(14 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Idir Boumertit",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s89",
+    "id": "342240",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Jean-Luc Bourgeaux",
+    "departement": "Ille-et-Vilaine "
+  },
+  {
+    "place": "s90",
+    "id": "721608",
+    "civ": "M.",
+    "circo": "(12 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Jean-Louis Bourlanges",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s91",
+    "id": "720838",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Soumya Bourouaha",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s92",
+    "id": "719032",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Bertrand Bouyx",
+    "departement": "Calvados "
+  },
+  {
+    "place": "s93",
+    "id": "793182",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Jorys Bovet",
+    "departement": "Allier "
+  },
+  {
+    "place": "s94",
+    "id": "795318",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Louis Boyard",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s95",
+    "id": "718710",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Pascale Boyer",
+    "departement": "Hautes-Alpes "
+  },
+  {
+    "place": "s96",
+    "id": "721908",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Yaël Braun-Pivet",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s97",
+    "id": "795990",
+    "civ": "Mme",
+    "circo": "(13 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Maud Bregeon",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s98",
+    "id": "330008",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Xavier Breton",
+    "departement": "Ain "
+  },
+  {
+    "place": "s99",
+    "id": "267766",
+    "civ": "M.",
+    "circo": "(18 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Guy Bricout",
+    "departement": "Nord "
+  },
+  {
+    "place": "s100",
+    "id": "605069",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Non inscrit",
+    "sigle": "NI",
+    "nom": "Jean-Louis Bricout",
+    "departement": "Aisne "
+  },
+  {
+    "place": "s101",
+    "id": "793508",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Hubert Brigand",
+    "departement": "Côte-d'Or "
+  },
+  {
+    "place": "s102",
+    "id": "721336",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Blandine Brocard",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s103",
+    "id": "794330",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Anthony Brosse",
+    "departement": "Loiret "
+  },
+  {
+    "place": "s104",
+    "id": "721118",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Moetai Brotherson",
+    "departement": "Polynésie Française "
+  },
+  {
+    "place": "s105",
+    "id": "720772",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Vincent Bru",
+    "departement": "Pyrénées-Atlantiques "
+  },
+  {
+    "place": "s106",
+    "id": "721328",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Anne Brugnera",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s108",
+    "id": "719890",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Danielle Brulebois",
+    "departement": "Jura "
+  },
+  {
+    "place": "s109",
+    "id": "718838",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Fabrice Brun",
+    "departement": "Ardèche "
+  },
+  {
+    "place": "s110",
+    "id": "793624",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Philippe Brun",
+    "departement": "Eure "
+  },
+  {
+    "place": "s111",
+    "id": "722000",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Stéphane Buchou",
+    "departement": "Vendée "
+  },
+  {
+    "place": "s112",
+    "id": "794798",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Françoise Buffet",
+    "departement": "Bas-Rhin "
+  },
+  {
+    "place": "s113",
+    "id": "793134",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Jérôme Buisson",
+    "departement": "Ain "
+  },
+  {
+    "place": "s114",
+    "id": "795836",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Frédéric Cabrolier",
+    "departement": "Tarn "
+  },
+  {
+    "place": "s116",
+    "id": "795762",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Elie Califer",
+    "departement": "Guadeloupe "
+  },
+  {
+    "place": "s117",
+    "id": "721750",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Céline Calvez",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s118",
+    "id": "795330",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Eléonore Caroit",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s119",
+    "id": "796090",
+    "civ": "M.",
+    "circo": "(18 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Aymeric Caron",
+    "departement": "Paris "
+  },
+  {
+    "place": "s120",
+    "id": "793912",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Sylvain Carrière",
+    "departement": "Hérault "
+  },
+  {
+    "place": "s122",
+    "id": "719138",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Michel Castellani",
+    "departement": "Haute-Corse "
+  },
+  {
+    "place": "s123",
+    "id": "795868",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Jean-Victor Castor",
+    "departement": "Guyane "
+  },
+  {
+    "place": "s124",
+    "id": "794638",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Victor Catteau",
+    "departement": "Nord "
+  },
+  {
+    "place": "s125",
+    "id": "719922",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Lionel Causse",
+    "departement": "Landes "
+  },
+  {
+    "place": "s126",
+    "id": "793940",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Thomas Cazenave",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s127",
+    "id": "719472",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean-René Cazeneuve",
+    "departement": "Gers "
+  },
+  {
+    "place": "s128",
+    "id": "795864",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Pierre Cazeneuve",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s129",
+    "id": "795192",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Steve Chailloux",
+    "departement": "Polynésie Française "
+  },
+  {
+    "place": "s130",
+    "id": "795508",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Émilie Chandler",
+    "departement": "Val-d'Oise "
+  },
+  {
+    "place": "s132",
+    "id": "267306",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "André Chassaigne",
+    "departement": "Puy-de-Dôme "
+  },
+  {
+    "place": "s133",
+    "id": "794008",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Cyrielle Chatelain",
+    "departement": "Isère "
+  },
+  {
+    "place": "s134",
+    "id": "795580",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Florian Chauche",
+    "departement": "Territoire de Belfort "
+  },
+  {
+    "place": "s135",
+    "id": "795908",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Yannick Chenevard",
+    "departement": "Var "
+  },
+  {
+    "place": "s136",
+    "id": "720468",
+    "civ": "M.",
+    "circo": "(19 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Sébastien Chenu",
+    "departement": "Nord "
+  },
+  {
+    "place": "s137",
+    "id": "791812",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Sophia Chikirou",
+    "departement": "Paris "
+  },
+  {
+    "place": "s138",
+    "id": "642868",
+    "civ": "M.",
+    "circo": "(14 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Paul Christophe",
+    "departement": "Nord "
+  },
+  {
+    "place": "s139",
+    "id": "794198",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Roger Chudeau",
+    "departement": "Loir-et-Cher "
+  },
+  {
+    "place": "s140",
+    "id": "267429",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Dino Cinieri",
+    "departement": "Loire "
+  },
+  {
+    "place": "s141",
+    "id": "330240",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Éric Ciotti",
+    "departement": "Alpes-Maritimes "
+  },
+  {
+    "place": "s143",
+    "id": "719294",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Mireille Clapot",
+    "departement": "Drôme "
+  },
+  {
+    "place": "s144",
+    "id": "793736",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Hadrien Clouet",
+    "departement": "Haute-Garonne "
+  },
+  {
+    "place": "s145",
+    "id": "719814",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Fabienne Colboc",
+    "departement": "Indre-et-Loire "
+  },
+  {
+    "place": "s146",
+    "id": "719286",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Paul-André Colombani",
+    "departement": "Corse-du-Sud "
+  },
+  {
+    "place": "s147",
+    "id": "793548",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Caroline Colombier",
+    "departement": "Charente "
+  },
+  {
+    "place": "s148",
+    "id": "721202",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Éric Coquerel",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s149",
+    "id": "721210",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Alexis Corbière",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s150",
+    "id": "718850",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Pierre Cordier",
+    "departement": "Ardennes "
+  },
+  {
+    "place": "s151",
+    "id": "719118",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "François Cormier-Bouligeon",
+    "departement": "Cher "
+  },
+  {
+    "place": "s152",
+    "id": "722390",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Josiane Corneloup",
+    "departement": "Saône-et-Loire "
+  },
+  {
+    "place": "s153",
+    "id": "793520",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Mickaël Cosson",
+    "departement": "Côtes-d'Armor "
+  },
+  {
+    "place": "s154",
+    "id": "719624",
+    "civ": "Mme",
+    "circo": "(7 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Bérangère Couillard",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s155",
+    "id": "795136",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Jean-François Coulomme",
+    "departement": "Savoie "
+  },
+  {
+    "place": "s157",
+    "id": "794222",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Annick Cousin",
+    "departement": "Lot-et-Garonne "
+  },
+  {
+    "place": "s158",
+    "id": "793680",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Catherine Couturier",
+    "departement": "Creuse "
+  },
+  {
+    "place": "s162",
+    "id": "793876",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Laurence Cristol",
+    "departement": "Hérault "
+  },
+  {
+    "place": "s163",
+    "id": "793716",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Laurent Croizier",
+    "departement": "Doubs "
+  },
+  {
+    "place": "s164",
+    "id": "719266",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Jean-Pierre Cubertafon",
+    "departement": "Dordogne "
+  },
+  {
+    "place": "s165",
+    "id": "793322",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Christelle D'Intorni",
+    "departement": "Alpes-Maritimes "
+  },
+  {
+    "place": "s166",
+    "id": "795644",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Nathalie Da Conceicao Carvalho",
+    "departement": "Essonne "
+  },
+  {
+    "place": "s167",
+    "id": "720932",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Dominique Da Silva",
+    "departement": "Val-d'Oise "
+  },
+  {
+    "place": "s168",
+    "id": "332523",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Marie-Christine Dalloz",
+    "departement": "Jura "
+  },
+  {
+    "place": "s169",
+    "id": "607846",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Gérald Darmanin",
+    "departement": "Nord "
+  },
+  {
+    "place": "s170",
+    "id": "719914",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Geneviève Darrieussecq",
+    "departement": "Landes "
+  },
+  {
+    "place": "s171",
+    "id": "793122",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Romain Daubié",
+    "departement": "Ain "
+  },
+  {
+    "place": "s172",
+    "id": "793452",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Hendrik Davi",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s173",
+    "id": "1008",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Alain David",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s174",
+    "id": "794510",
+    "civ": "Mme",
+    "circo": "(13 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Christine Decodts",
+    "departement": "Nord "
+  },
+  {
+    "place": "s175",
+    "id": "793394",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Arthur Delaporte",
+    "departement": "Calvados "
+  },
+  {
+    "place": "s176",
+    "id": "795430",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Stéphane Delautrette",
+    "departement": "Haute-Vienne "
+  },
+  {
+    "place": "s177",
+    "id": "793464",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Sébastien Delogu",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s178",
+    "id": "794982",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Julie Delpech",
+    "departement": "Sarthe "
+  },
+  {
+    "place": "s179",
+    "id": "720696",
+    "civ": "Mme",
+    "circo": "(21 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Béatrice Descamps",
+    "departement": "Nord "
+  },
+  {
+    "place": "s180",
+    "id": "330909",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Vincent Descoeur",
+    "departement": "Cantal "
+  },
+  {
+    "place": "s181",
+    "id": "720862",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Frédéric Descrozaille",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s182",
+    "id": "793166",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Jocelyn Dessigny",
+    "departement": "Aisne "
+  },
+  {
+    "place": "s183",
+    "id": "718926",
+    "civ": "M.",
+    "circo": "(13 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Pierre Dharréville",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s184",
+    "id": "720386",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Fabien Di Filippo",
+    "departement": "Moselle "
+  },
+  {
+    "place": "s185",
+    "id": "793928",
+    "civ": "Mme",
+    "circo": "(11 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Edwige Diaz",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s186",
+    "id": "722382",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Benjamin Dirx",
+    "departement": "Saône-et-Loire "
+  },
+  {
+    "place": "s187",
+    "id": "712015",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Julien Dive",
+    "departement": "Aisne "
+  },
+  {
+    "place": "s188",
+    "id": "794762",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Sandrine Dogor-Such",
+    "departement": "Pyrénées-Orientales "
+  },
+  {
+    "place": "s189",
+    "id": "793146",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Nicolas Dragon",
+    "departement": "Aisne "
+  },
+  {
+    "place": "s190",
+    "id": "793476",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Francis Dubois",
+    "departement": "Corrèze "
+  },
+  {
+    "place": "s191",
+    "id": "720154",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Nicole Dubré-Chirat",
+    "departement": "Maine-et-Loire "
+  },
+  {
+    "place": "s192",
+    "id": "608826",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Virginie Duby-Muller",
+    "departement": "Haute-Savoie "
+  },
+  {
+    "place": "s193",
+    "id": "795200",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Alma Dufour",
+    "departement": "Seine-Maritime "
+  },
+  {
+    "place": "s195",
+    "id": "720684",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Pierre-Henri Dumont",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s196",
+    "id": "721094",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Philippe Dunoyer",
+    "departement": "Nouvelle-Calédonie "
+  },
+  {
+    "place": "s197",
+    "id": "643175",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Stella Dupont",
+    "departement": "Maine-et-Loire "
+  },
+  {
+    "place": "s198",
+    "id": "1206",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Non inscrit",
+    "sigle": "NI",
+    "nom": "Nicolas Dupont-Aignan",
+    "departement": "Essonne "
+  },
+  {
+    "place": "s199",
+    "id": "330357",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Olivier Dussopt",
+    "departement": "Ardèche "
+  },
+  {
+    "place": "s200",
+    "id": "794854",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Inaki Echaniz",
+    "departement": "Pyrénées-Atlantiques "
+  },
+  {
+    "place": "s201",
+    "id": "720002",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Sarah El Haïry",
+    "departement": "Loire-Atlantique "
+  },
+  {
+    "place": "s203",
+    "id": "794718",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Christine Engrand",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s204",
+    "id": "795844",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Karen Erodi",
+    "departement": "Tarn "
+  },
+  {
+    "place": "s205",
+    "id": "607193",
+    "civ": "Mme",
+    "circo": "(10 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Sophie Errante",
+    "departement": "Loire-Atlantique "
+  },
+  {
+    "place": "s206",
+    "id": "794458",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Martine Etienne",
+    "departement": "Meurthe-et-Moselle "
+  },
+  {
+    "place": "s207",
+    "id": "794658",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Philippe Fait",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s209",
+    "id": "793246",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Frédéric Falcon",
+    "departement": "Aude "
+  },
+  {
+    "place": "s210",
+    "id": "605694",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Non inscrit",
+    "sigle": "NI",
+    "nom": "Olivier Falorni",
+    "departement": "Charente-Maritime "
+  },
+  {
+    "place": "s211",
+    "id": "721896",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Elsa Faucillon",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s212",
+    "id": "793788",
+    "civ": "Mme",
+    "circo": "(10 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Dominique Faure",
+    "departement": "Haute-Garonne "
+  },
+  {
+    "place": "s213",
+    "id": "609332",
+    "civ": "M.",
+    "circo": "(11 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Olivier Faure",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s214",
+    "id": "267042",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Yannick Favennec-Bécot",
+    "departement": "Mayenne "
+  },
+  {
+    "place": "s215",
+    "id": "794786",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Emmanuel Fernandes",
+    "departement": "Bas-Rhin "
+  },
+  {
+    "place": "s216",
+    "id": "795884",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Marc Ferracci",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s217",
+    "id": "795120",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Marina Ferrari",
+    "departement": "Savoie "
+  },
+  {
+    "place": "s219",
+    "id": "794870",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Sylvie Ferrer",
+    "departement": "Hautes-Pyrénées "
+  },
+  {
+    "place": "s220",
+    "id": "719938",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Marc Fesneau",
+    "departement": "Loir-et-Cher "
+  },
+  {
+    "place": "s221",
+    "id": "720286",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Caroline Fiat",
+    "departement": "Meurthe-et-Moselle "
+  },
+  {
+    "place": "s223",
+    "id": "267780",
+    "civ": "Mme",
+    "circo": "(7 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Agnès Firmin Le Bodo",
+    "departement": "Seine-Maritime "
+  },
+  {
+    "place": "s222",
+    "id": "722134",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean-Marie Fiévet",
+    "departement": "Deux-Sèvres "
+  },
+  {
+    "place": "s224",
+    "id": "795604",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Estelle Folest",
+    "departement": "Val-d'Oise "
+  },
+  {
+    "place": "s225",
+    "id": "1327",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Nicolas Forissier",
+    "departement": "Indre "
+  },
+  {
+    "place": "s227",
+    "id": "793980",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Charles Fournier",
+    "departement": "Indre-et-Loire "
+  },
+  {
+    "place": "s228",
+    "id": "794538",
+    "civ": "M.",
+    "circo": "(17 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Thibaut François",
+    "departement": "Nord "
+  },
+  {
+    "place": "s230",
+    "id": "794678",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Thierry Frappé",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s231",
+    "id": "794286",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Anne-Sophie Frigout",
+    "departement": "Marne "
+  },
+  {
+    "place": "s232",
+    "id": "722284",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Bruno Fuchs",
+    "departement": "Haut-Rhin "
+  },
+  {
+    "place": "s233",
+    "id": "722366",
+    "civ": "M.",
+    "circo": "(11 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean-Luc Fugit",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s234",
+    "id": "796070",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Perceval Gaillard",
+    "departement": "Réunion "
+  },
+  {
+    "place": "s235",
+    "id": "793892",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Stéphanie Galzy",
+    "departement": "Hérault "
+  },
+  {
+    "place": "s236",
+    "id": "795010",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Marie-Charlotte Garin",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s237",
+    "id": "333285",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Guillaume Garot",
+    "departement": "Mayenne "
+  },
+  {
+    "place": "s238",
+    "id": "796132",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Raquel Garrido",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s239",
+    "id": "722358",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Thomas Gassilloud",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s240",
+    "id": "721760",
+    "civ": "Mme",
+    "circo": "(11 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Maud Gatel",
+    "departement": "Paris "
+  },
+  {
+    "place": "s241",
+    "id": "267324",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Jean-Jacques Gaultier",
+    "departement": "Vosges "
+  },
+  {
+    "place": "s242",
+    "id": "721024",
+    "civ": "Mme",
+    "circo": "(11 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Anne Genetet",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s243",
+    "id": "605991",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Annie Genevard",
+    "departement": "Doubs "
+  },
+  {
+    "place": "s248",
+    "id": "794234",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "François Gernigon",
+    "departement": "Maine-et-Loire "
+  },
+  {
+    "place": "s249",
+    "id": "721722",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Hadrien Ghomi",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s250",
+    "id": "796034",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Frank Giletti",
+    "departement": "Var "
+  },
+  {
+    "place": "s251",
+    "id": "793832",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Yoann Gillet",
+    "departement": "Gard "
+  },
+  {
+    "place": "s253",
+    "id": "793102",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Christian Girard",
+    "departement": "Alpes-de-Haute-Provence "
+  },
+  {
+    "place": "s254",
+    "id": "720222",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Éric Girardin",
+    "departement": "Marne "
+  },
+  {
+    "place": "s255",
+    "id": "267336",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Joël Giraud",
+    "departement": "Hautes-Alpes "
+  },
+  {
+    "place": "s256",
+    "id": "718674",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Olga Givernet",
+    "departement": "Ain "
+  },
+  {
+    "place": "s257",
+    "id": "793362",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "José Gonzalez",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s258",
+    "id": "266797",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Philippe Gosselin",
+    "departement": "Manche "
+  },
+  {
+    "place": "s259",
+    "id": "721296",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Guillaume Gouffier-Cha",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s260",
+    "id": "794418",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Florence Goulet",
+    "departement": "Meuse "
+  },
+  {
+    "place": "s261",
+    "id": "720560",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Perrine Goulet",
+    "departement": "Nièvre "
+  },
+  {
+    "place": "s262",
+    "id": "720170",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Carole Grandjean",
+    "departement": "Meurthe-et-Moselle "
+  },
+  {
+    "place": "s263",
+    "id": "793592",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Géraldine Grangier",
+    "departement": "Doubs "
+  },
+  {
+    "place": "s265",
+    "id": "267318",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean-Carles Grelier",
+    "departement": "Sarthe "
+  },
+  {
+    "place": "s266",
+    "id": "795540",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Daniel Grenon",
+    "departement": "Yonne "
+  },
+  {
+    "place": "s267",
+    "id": "794058",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Justine Gruet",
+    "departement": "Jura "
+  },
+  {
+    "place": "s264",
+    "id": "721764",
+    "civ": "Mme",
+    "circo": "(12 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Olivia Grégoire",
+    "departement": "Paris "
+  },
+  {
+    "place": "s268",
+    "id": "1567",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Jérôme Guedj",
+    "departement": "Essonne "
+  },
+  {
+    "place": "s269",
+    "id": "721498",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Stanislas Guerini",
+    "departement": "Paris "
+  },
+  {
+    "place": "s270",
+    "id": "795310",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Clémence Guetté",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s272",
+    "id": "794734",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Michel Guiniot",
+    "departement": "Oise "
+  },
+  {
+    "place": "s273",
+    "id": "794478",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "David Guiraud",
+    "departement": "Nord "
+  },
+  {
+    "place": "s274",
+    "id": "793218",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Jordan Guitton",
+    "departement": "Aube "
+  },
+  {
+    "place": "s276",
+    "id": "795258",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Frantz Gumbs",
+    "departement": "Saint-Barthélemy et Saint-Martin "
+  },
+  {
+    "place": "s271",
+    "id": "721880",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Marie Guévenoux",
+    "departement": "Essonne "
+  },
+  {
+    "place": "s244",
+    "id": "794470",
+    "civ": "Mme",
+    "circo": "(7 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Félicie Gérard",
+    "departement": "Nord "
+  },
+  {
+    "place": "s245",
+    "id": "719108",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Raphaël Gérard",
+    "departement": "Charente-Maritime "
+  },
+  {
+    "place": "s277",
+    "id": "783457",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Victor Habert-Dassault",
+    "departement": "Oise "
+  },
+  {
+    "place": "s278",
+    "id": "1592",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Non inscrit",
+    "sigle": "NI",
+    "nom": "David Habib",
+    "departement": "Pyrénées-Atlantiques "
+  },
+  {
+    "place": "s279",
+    "id": "695100",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Meyer Habib",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s280",
+    "id": "795958",
+    "civ": "M.",
+    "circo": "(14 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Benjamin Haddad",
+    "departement": "Paris "
+  },
+  {
+    "place": "s281",
+    "id": "722054",
+    "civ": "Mme",
+    "circo": "(7 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Nadia Hai",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s282",
+    "id": "795828",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Johnny Hajjar",
+    "departement": "Martinique "
+  },
+  {
+    "place": "s284",
+    "id": "795900",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Marine Hamelet",
+    "departement": "Tarn-et-Garonne "
+  },
+  {
+    "place": "s285",
+    "id": "720054",
+    "civ": "M.",
+    "circo": "(9 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Yannick Haury",
+    "departement": "Loire-Atlantique "
+  },
+  {
+    "place": "s287",
+    "id": "722070",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Pierre Henriet",
+    "departement": "Vendée "
+  },
+  {
+    "place": "s288",
+    "id": "1630",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Michel Herbillon",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s290",
+    "id": "608416",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Patrick Hetzel",
+    "departement": "Bas-Rhin "
+  },
+  {
+    "place": "s291",
+    "id": "794082",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Mathilde Hignet",
+    "departement": "Ille-et-Vilaine "
+  },
+  {
+    "place": "s292",
+    "id": "721150",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Alexandre Holroyd",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s293",
+    "id": "722150",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Sacha Houlié",
+    "departement": "Vienne "
+  },
+  {
+    "place": "s294",
+    "id": "793632",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Timothée Houssin",
+    "departement": "Eure "
+  },
+  {
+    "place": "s286",
+    "id": "796110",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Joris Hébrard",
+    "departement": "Vaucluse "
+  },
+  {
+    "place": "s295",
+    "id": "331835",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Monique Iborra",
+    "departement": "Haute-Garonne "
+  },
+  {
+    "place": "s296",
+    "id": "794022",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Jérémie Iordanoff",
+    "departement": "Isère "
+  },
+  {
+    "place": "s297",
+    "id": "722374",
+    "civ": "M.",
+    "circo": "(12 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Cyrille Isaac-Sibille",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s298",
+    "id": "795652",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Alexis Izard",
+    "departement": "Essonne "
+  },
+  {
+    "place": "s300",
+    "id": "794598",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Laurent Jacobelli",
+    "departement": "Moselle "
+  },
+  {
+    "place": "s301",
+    "id": "720354",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean-Michel Jacques",
+    "departement": "Morbihan "
+  },
+  {
+    "place": "s302",
+    "id": "719874",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Élodie Jacquier-Laforge",
+    "departement": "Isère "
+  },
+  {
+    "place": "s303",
+    "id": "720074",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Caroline Janvier",
+    "departement": "Loiret "
+  },
+  {
+    "place": "s304",
+    "id": "719778",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "François Jolivet",
+    "departement": "Indre "
+  },
+  {
+    "place": "s305",
+    "id": "794030",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Alexis Jolly",
+    "departement": "Isère "
+  },
+  {
+    "place": "s306",
+    "id": "720038",
+    "civ": "Mme",
+    "circo": "(7 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Sandrine Josso",
+    "departement": "Loire-Atlantique "
+  },
+  {
+    "place": "s307",
+    "id": "643192",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Chantal Jourdan",
+    "departement": "Orne "
+  },
+  {
+    "place": "s308",
+    "id": "722344",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Hubert Julien-Laferrière",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s309",
+    "id": "722202",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Sébastien Jumel",
+    "departement": "Seine-Maritime "
+  },
+  {
+    "place": "s311",
+    "id": "346782",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Philippe Juvin",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s312",
+    "id": "795998",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Emeline K/Bidi",
+    "departement": "Réunion "
+  },
+  {
+    "place": "s313",
+    "id": "267901",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Mansour Kamardine",
+    "departement": "Mayotte "
+  },
+  {
+    "place": "s314",
+    "id": "335054",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Marietta Karamanli",
+    "departement": "Sarthe "
+  },
+  {
+    "place": "s315",
+    "id": "719372",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Guillaume Kasbarian",
+    "departement": "Eure-et-Loir "
+  },
+  {
+    "place": "s317",
+    "id": "795438",
+    "civ": "Mme",
+    "circo": "(7 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Rachel Keke",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s318",
+    "id": "795156",
+    "civ": "Mme",
+    "circo": "(8 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Fatiha Keloua Hachi",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s319",
+    "id": "794130",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Andy Kerbrat",
+    "departement": "Loire-Atlantique "
+  },
+  {
+    "place": "s320",
+    "id": "719052",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Loïc Kervran",
+    "departement": "Cher "
+  },
+  {
+    "place": "s321",
+    "id": "719186",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Fadila Khattabi",
+    "departement": "Côte-d'Or "
+  },
+  {
+    "place": "s322",
+    "id": "643184",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Brigitte Klinkert",
+    "departement": "Haut-Rhin "
+  },
+  {
+    "place": "s323",
+    "id": "794818",
+    "civ": "Mme",
+    "circo": "(8 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Stéphanie Kochert",
+    "departement": "Bas-Rhin "
+  },
+  {
+    "place": "s324",
+    "id": "719798",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Daniel Labaronne",
+    "departement": "Indre-et-Loire "
+  },
+  {
+    "place": "s325",
+    "id": "720846",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Bastien Lachaud",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s326",
+    "id": "794450",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Emmanuel Lacresse",
+    "departement": "Meurthe-et-Moselle "
+  },
+  {
+    "place": "s327",
+    "id": "794146",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Julie Laernoes",
+    "departement": "Loire-Atlantique "
+  },
+  {
+    "place": "s329",
+    "id": "795516",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Maxime Laisney",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s330",
+    "id": "721004",
+    "civ": "Mme",
+    "circo": "(10 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Amélia Lakrafi",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s331",
+    "id": "719382",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Luc Lamirault",
+    "departement": "Eure-et-Loir "
+  },
+  {
+    "place": "s332",
+    "id": "794354",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Hélène Laporte",
+    "departement": "Lot-et-Garonne "
+  },
+  {
+    "place": "s333",
+    "id": "718978",
+    "civ": "M.",
+    "circo": "(11 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Mohamed Laqhila",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s334",
+    "id": "719396",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Jean-Charles Larsonneur",
+    "departement": "Finistère "
+  },
+  {
+    "place": "s335",
+    "id": "720764",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Florence Lasserre",
+    "departement": "Pyrénées-Atlantiques "
+  },
+  {
+    "place": "s336",
+    "id": "721984",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Philippe Latombe",
+    "departement": "Vendée "
+  },
+  {
+    "place": "s337",
+    "id": "720022",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Michel Lauzzana",
+    "departement": "Lot-et-Garonne "
+  },
+  {
+    "place": "s338",
+    "id": "795912",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Laure Lavalette",
+    "departement": "Var "
+  },
+  {
+    "place": "s339",
+    "id": "719664",
+    "civ": "M.",
+    "circo": "(12 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Pascal Lavergne",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s340",
+    "id": "719412",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Sandrine Le Feur",
+    "departement": "Finistère "
+  },
+  {
+    "place": "s341",
+    "id": "1874",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Marc Le Fur",
+    "departement": "Côtes-d'Armor "
+  },
+  {
+    "place": "s342",
+    "id": "719404",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Didier Le Gac",
+    "departement": "Finistère "
+  },
+  {
+    "place": "s343",
+    "id": "795672",
+    "civ": "M.",
+    "circo": "(9 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Arnaud Le Gall",
+    "departement": "Val-d'Oise "
+  },
+  {
+    "place": "s344",
+    "id": "795184",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Tematai Le Gayic",
+    "departement": "Polynésie Française "
+  },
+  {
+    "place": "s345",
+    "id": "721466",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Gilles Le Gendre",
+    "departement": "Paris "
+  },
+  {
+    "place": "s346",
+    "id": "345722",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Constance Le Grip",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s347",
+    "id": "794426",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Anne Le Hénanff",
+    "departement": "Morbihan "
+  },
+  {
+    "place": "s348",
+    "id": "719388",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Annaïg Le Meur",
+    "departement": "Finistère "
+  },
+  {
+    "place": "s349",
+    "id": "719756",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Christine Le Nabour",
+    "departement": "Ille-et-Vilaine "
+  },
+  {
+    "place": "s350",
+    "id": "720342",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Nicole Le Peih",
+    "departement": "Morbihan "
+  },
+  {
+    "place": "s351",
+    "id": "720614",
+    "civ": "Mme",
+    "circo": "(11 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Marine Le Pen",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s352",
+    "id": "719006",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Fabrice Le Vigoureux",
+    "departement": "Calvados "
+  },
+  {
+    "place": "s354",
+    "id": "721852",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Marie Lebec",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s356",
+    "id": "774962",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Karine Lebon",
+    "departement": "Réunion "
+  },
+  {
+    "place": "s357",
+    "id": "795108",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Élise Leboucher",
+    "departement": "Sarthe "
+  },
+  {
+    "place": "s358",
+    "id": "795374",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Pascal Lecamp",
+    "departement": "Vienne "
+  },
+  {
+    "place": "s359",
+    "id": "796026",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Julie Lechanteux",
+    "departement": "Var "
+  },
+  {
+    "place": "s360",
+    "id": "335612",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Jean-Paul Lecoq",
+    "departement": "Seine-Maritime "
+  },
+  {
+    "place": "s361",
+    "id": "794402",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Charlotte Leduc",
+    "departement": "Moselle "
+  },
+  {
+    "place": "s362",
+    "id": "795386",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Mathieu Lefèvre",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s364",
+    "id": "795298",
+    "civ": "M.",
+    "circo": "(12 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Jérôme Legavre",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s365",
+    "id": "791824",
+    "civ": "Mme",
+    "circo": "(16 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Sarah Legrain",
+    "departement": "Paris "
+  },
+  {
+    "place": "s366",
+    "id": "793290",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Gisèle Lelouis",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s367",
+    "id": "794838",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Didier Lemaire",
+    "departement": "Haut-Rhin "
+  },
+  {
+    "place": "s368",
+    "id": "795244",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Stéphane Lenormand",
+    "departement": "Saint-Pierre-et-Miquelon "
+  },
+  {
+    "place": "s371",
+    "id": "793532",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Murielle Lepvraud",
+    "departement": "Côtes-d'Armor "
+  },
+  {
+    "place": "s372",
+    "id": "721134",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Roland Lescure",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s373",
+    "id": "774958",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Gérard Leseul",
+    "departement": "Seine-Maritime "
+  },
+  {
+    "place": "s374",
+    "id": "793608",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Katiana Levavasseur",
+    "departement": "Eure "
+  },
+  {
+    "place": "s375",
+    "id": "794702",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Delphine Lingemann",
+    "departement": "Puy-de-Dôme "
+  },
+  {
+    "place": "s376",
+    "id": "720446",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Brigitte Liso",
+    "departement": "Nord "
+  },
+  {
+    "place": "s377",
+    "id": "793672",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Christine Loir",
+    "departement": "Eure "
+  },
+  {
+    "place": "s378",
+    "id": "793904",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Aurélien Lopez-Liguori",
+    "departement": "Hérault "
+  },
+  {
+    "place": "s380",
+    "id": "721932",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Marie-France Lorho",
+    "departement": "Vaucluse "
+  },
+  {
+    "place": "s381",
+    "id": "795974",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Philippe Lottiaux",
+    "departement": "Var "
+  },
+  {
+    "place": "s382",
+    "id": "794590",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Alexandre Loubet",
+    "departement": "Moselle "
+  },
+  {
+    "place": "s383",
+    "id": "608016",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Véronique Louwagie",
+    "departement": "Orne "
+  },
+  {
+    "place": "s384",
+    "id": "795216",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean-François Lovisolo",
+    "departement": "Vaucluse "
+  },
+  {
+    "place": "s385",
+    "id": "795636",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Benjamin Lucas",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s386",
+    "id": "721530",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Aude Luquet",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s353",
+    "id": "795746",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Antoine Léaument",
+    "departement": "Essonne "
+  },
+  {
+    "place": "s387",
+    "id": "720230",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Lise Magnier",
+    "departement": "Marne "
+  },
+  {
+    "place": "s388",
+    "id": "717379",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Sylvain Maillard",
+    "departement": "Paris "
+  },
+  {
+    "place": "s389",
+    "id": "719718",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Laurence Maillart-Méhaignerie",
+    "departement": "Ille-et-Vilaine "
+  },
+  {
+    "place": "s391",
+    "id": "796010",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Frédéric Maillot",
+    "departement": "Réunion "
+  },
+  {
+    "place": "s392",
+    "id": "794114",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Emmanuel Mandon",
+    "departement": "Loire "
+  },
+  {
+    "place": "s393",
+    "id": "346054",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Emmanuel Maquet",
+    "departement": "Somme "
+  },
+  {
+    "place": "s394",
+    "id": "334116",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jacqueline Maquet",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s395",
+    "id": "605782",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Laurent Marcangeli",
+    "departement": "Corse-du-Sud "
+  },
+  {
+    "place": "s397",
+    "id": "794530",
+    "civ": "M.",
+    "circo": "(16 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Matthieu Marchio",
+    "departement": "Nord "
+  },
+  {
+    "place": "s398",
+    "id": "795730",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Bastien Marchive",
+    "departement": "Deux-Sèvres "
+  },
+  {
+    "place": "s399",
+    "id": "794974",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Louis Margueritte",
+    "departement": "Saône-et-Loire "
+  },
+  {
+    "place": "s400",
+    "id": "794206",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Christophe Marion",
+    "departement": "Loir-et-Cher "
+  },
+  {
+    "place": "s401",
+    "id": "606098",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Olivier Marleix",
+    "departement": "Eure-et-Loir "
+  },
+  {
+    "place": "s402",
+    "id": "719080",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Sandra Marsaud",
+    "departement": "Charente "
+  },
+  {
+    "place": "s403",
+    "id": "793342",
+    "civ": "Mme",
+    "circo": "(8 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Alexandra Martin",
+    "departement": "Alpes-Maritimes "
+  },
+  {
+    "place": "s404",
+    "id": "719154",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Didier Martin",
+    "departement": "Côte-d'Or "
+  },
+  {
+    "place": "s406",
+    "id": "793688",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Pascale Martin",
+    "departement": "Dordogne "
+  },
+  {
+    "place": "s405",
+    "id": "342384",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Élisa Martin",
+    "departement": "Isère "
+  },
+  {
+    "place": "s407",
+    "id": "795100",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Éric Martineau",
+    "departement": "Sarthe "
+  },
+  {
+    "place": "s409",
+    "id": "795692",
+    "civ": "M.",
+    "circo": "(11 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "William Martinet",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s410",
+    "id": "794770",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Michèle Martinez",
+    "departement": "Pyrénées-Orientales "
+  },
+  {
+    "place": "s412",
+    "id": "793314",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Alexandra Masson",
+    "departement": "Alpes-Maritimes "
+  },
+  {
+    "place": "s413",
+    "id": "793330",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Bryan Masson",
+    "departement": "Alpes-Maritimes "
+  },
+  {
+    "place": "s411",
+    "id": "720146",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Denis Masséglia",
+    "departement": "Maine-et-Loire "
+  },
+  {
+    "place": "s414",
+    "id": "720976",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Max Mathiasin",
+    "departement": "Guadeloupe "
+  },
+  {
+    "place": "s415",
+    "id": "794066",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Frédéric Mathieu",
+    "departement": "Ille-et-Vilaine "
+  },
+  {
+    "place": "s416",
+    "id": "720728",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Jean-Paul Mattei",
+    "departement": "Pyrénées-Atlantiques "
+  },
+  {
+    "place": "s417",
+    "id": "795422",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Damien Maudet",
+    "departement": "Haute-Vienne "
+  },
+  {
+    "place": "s418",
+    "id": "793616",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Kévin Mauvieux",
+    "departement": "Eure "
+  },
+  {
+    "place": "s419",
+    "id": "794686",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Marianne Maximi",
+    "departement": "Puy-de-Dôme "
+  },
+  {
+    "place": "s420",
+    "id": "677483",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Stéphane Mazars",
+    "departement": "Aveyron "
+  },
+  {
+    "place": "s421",
+    "id": "719436",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Nicolas Meizonnet",
+    "departement": "Gard "
+  },
+  {
+    "place": "s422",
+    "id": "719338",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Graziella Melchior",
+    "departement": "Finistère "
+  },
+  {
+    "place": "s424",
+    "id": "795786",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Yaël Menache",
+    "departement": "Somme "
+  },
+  {
+    "place": "s427",
+    "id": "720370",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Ludovic Mendes",
+    "departement": "Moselle "
+  },
+  {
+    "place": "s428",
+    "id": "719072",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Thomas Mesnier",
+    "departement": "Charente "
+  },
+  {
+    "place": "s430",
+    "id": "719640",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Sophie Mette",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s431",
+    "id": "795176",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Nicolas Metzdorf",
+    "departement": "Nouvelle-Calédonie "
+  },
+  {
+    "place": "s432",
+    "id": "719272",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Frédérique Meunier",
+    "departement": "Corrèze "
+  },
+  {
+    "place": "s433",
+    "id": "795482",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Manon Meunier",
+    "departement": "Haute-Vienne "
+  },
+  {
+    "place": "s434",
+    "id": "793852",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Pierre Meurin",
+    "departement": "Gard "
+  },
+  {
+    "place": "s436",
+    "id": "719882",
+    "civ": "Mme",
+    "circo": "(10 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Marjolaine Meynier-Millefert",
+    "departement": "Isère "
+  },
+  {
+    "place": "s437",
+    "id": "795664",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Paul Midy",
+    "departement": "Essonne "
+  },
+  {
+    "place": "s438",
+    "id": "721976",
+    "civ": "M.",
+    "circo": "(9 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Bruno Millienne",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s439",
+    "id": "720630",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Maxime Minot",
+    "departement": "Oise "
+  },
+  {
+    "place": "s440",
+    "id": "719668",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Patricia Mirallès",
+    "departement": "Hérault "
+  },
+  {
+    "place": "s441",
+    "id": "607619",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Paul Molac",
+    "departement": "Morbihan "
+  },
+  {
+    "place": "s442",
+    "id": "793174",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Yannick Monnet",
+    "departement": "Allier "
+  },
+  {
+    "place": "s444",
+    "id": "794810",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Louise Morel",
+    "departement": "Bas-Rhin "
+  },
+  {
+    "place": "s445",
+    "id": "266788",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Pierre Morel-À-L'Huissier",
+    "departement": "Lozère "
+  },
+  {
+    "place": "s446",
+    "id": "794878",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Benoit Mournet",
+    "departement": "Hautes-Pyrénées "
+  },
+  {
+    "place": "s447",
+    "id": "720908",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Naïma Moutchou",
+    "departement": "Val-d'Oise "
+  },
+  {
+    "place": "s448",
+    "id": "793696",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Serge Muller",
+    "departement": "Dordogne "
+  },
+  {
+    "place": "s423",
+    "id": "793354",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Joëlle Mélin",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s425",
+    "id": "794322",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Thomas Ménagé",
+    "departement": "Loiret "
+  },
+  {
+    "place": "s426",
+    "id": "719608",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Non inscrit",
+    "sigle": "NI",
+    "nom": "Emmanuelle Ménard",
+    "departement": "Hérault "
+  },
+  {
+    "place": "s429",
+    "id": "794386",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Lysiane Métayer",
+    "departement": "Morbihan "
+  },
+  {
+    "place": "s450",
+    "id": "795820",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Marcellin Nadeau",
+    "departement": "Martinique "
+  },
+  {
+    "place": "s451",
+    "id": "721486",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Christophe Naegelen",
+    "departement": "Vosges "
+  },
+  {
+    "place": "s452",
+    "id": "643157",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Philippe Naillet",
+    "departement": "Réunion "
+  },
+  {
+    "place": "s453",
+    "id": "794038",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Yannick Neuder",
+    "departement": "Isère "
+  },
+  {
+    "place": "s454",
+    "id": "610654",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Jean-Philippe Nilor",
+    "departement": "Martinique "
+  },
+  {
+    "place": "s455",
+    "id": "720644",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Jérôme Nury",
+    "departement": "Orne "
+  },
+  {
+    "place": "s456",
+    "id": "721960",
+    "civ": "Mme",
+    "circo": "(17 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Danièle Obono",
+    "departement": "Paris "
+  },
+  {
+    "place": "s457",
+    "id": "795552",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Julien Odoul",
+    "departement": "Yonne "
+  },
+  {
+    "place": "s458",
+    "id": "795722",
+    "civ": "M.",
+    "circo": "(12 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Karl Olive",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s460",
+    "id": "794830",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Hubert Ott",
+    "departement": "Haut-Rhin "
+  },
+  {
+    "place": "s461",
+    "id": "793872",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Nathalie Oziol",
+    "departement": "Hérault "
+  },
+  {
+    "place": "s462",
+    "id": "793588",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Nicolas Pacquot",
+    "departement": "Doubs "
+  },
+  {
+    "place": "s463",
+    "id": "720334",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Jimmy Pahun",
+    "departement": "Morbihan "
+  },
+  {
+    "place": "s464",
+    "id": "333421",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Bertrand Pancher",
+    "departement": "Meuse "
+  },
+  {
+    "place": "s465",
+    "id": "793210",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Non inscrit",
+    "sigle": "NI",
+    "nom": "Laurent Panifous",
+    "departement": "Ariège "
+  },
+  {
+    "place": "s466",
+    "id": "719632",
+    "civ": "Mme",
+    "circo": "(8 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Sophie Panonacle",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s467",
+    "id": "795050",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Astrid Panosyan-Bouvet",
+    "departement": "Paris "
+  },
+  {
+    "place": "s468",
+    "id": "720892",
+    "civ": "Mme",
+    "circo": "(10 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Mathilde Panot",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s469",
+    "id": "719202",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Didier Paris",
+    "departement": "Côte-d'Or "
+  },
+  {
+    "place": "s471",
+    "id": "794314",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Mathilde Paris",
+    "departement": "Loiret "
+  },
+  {
+    "place": "s472",
+    "id": "794670",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Caroline Parmentier",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s473",
+    "id": "720480",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Charlotte Parmentier-Lecocq",
+    "departement": "Nord "
+  },
+  {
+    "place": "s474",
+    "id": "795794",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Francesca Pasquini",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s475",
+    "id": "793398",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Jérémie Patrier-Leitus",
+    "departement": "Calvados "
+  },
+  {
+    "place": "s478",
+    "id": "718784",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Éric Pauget",
+    "departement": "Alpes-Maritimes "
+  },
+  {
+    "place": "s479",
+    "id": "795926",
+    "civ": "M.",
+    "circo": "(9 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Emmanuel Pellerin",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s481",
+    "id": "720414",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Patrice Perrot",
+    "departement": "Nièvre "
+  },
+  {
+    "place": "s482",
+    "id": "718930",
+    "civ": "Mme",
+    "circo": "(14 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Anne-Laurence Petel",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s483",
+    "id": "721442",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Christelle Petex-Levet",
+    "departement": "Haute-Savoie "
+  },
+  {
+    "place": "s484",
+    "id": "344201",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Bertrand Petit",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s485",
+    "id": "721182",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Frédéric Petit",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s486",
+    "id": "721234",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Maud Petit",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s487",
+    "id": "721270",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Stéphane Peu",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s488",
+    "id": "721710",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Michèle Peyron",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s491",
+    "id": "793708",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Sébastien Peytavie",
+    "departement": "Dordogne "
+  },
+  {
+    "place": "s492",
+    "id": "794582",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Kévin Pfeffer",
+    "departement": "Moselle "
+  },
+  {
+    "place": "s493",
+    "id": "794270",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Anna Pic",
+    "departement": "Manche "
+  },
+  {
+    "place": "s494",
+    "id": "793756",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "François Piquemal",
+    "departement": "Haute-Garonne "
+  },
+  {
+    "place": "s495",
+    "id": "608172",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Christine Pires Beaune",
+    "departement": "Puy-de-Dôme "
+  },
+  {
+    "place": "s496",
+    "id": "721844",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Béatrice Piron",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s497",
+    "id": "718910",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Claire Pitollat",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s498",
+    "id": "793572",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Christophe Plassard",
+    "departement": "Charente-Maritime "
+  },
+  {
+    "place": "s499",
+    "id": "793664",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Marie Pochon",
+    "departement": "Drôme "
+  },
+  {
+    "place": "s500",
+    "id": "793656",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Lisette Pollet",
+    "departement": "Drôme "
+  },
+  {
+    "place": "s501",
+    "id": "609520",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Barbara Pompili",
+    "departement": "Somme "
+  },
+  {
+    "place": "s502",
+    "id": "2449",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean-Pierre Pont",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s503",
+    "id": "719528",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Jean-François Portarrieu",
+    "departement": "Haute-Garonne "
+  },
+  {
+    "place": "s504",
+    "id": "796062",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Thomas Portes",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s505",
+    "id": "794994",
+    "civ": "M.",
+    "circo": "(9 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Alexandre Portier",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s506",
+    "id": "607553",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Dominique Potier",
+    "departement": "Meurthe-et-Moselle "
+  },
+  {
+    "place": "s507",
+    "id": "720720",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Josy Poueyto",
+    "departement": "Pyrénées-Atlantiques "
+  },
+  {
+    "place": "s508",
+    "id": "719600",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Éric Poulliat",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s509",
+    "id": "795270",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Marie-Agnès Poussier-Winsback",
+    "departement": "Seine-Maritime "
+  },
+  {
+    "place": "s510",
+    "id": "721916",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Natalia Pouzyreff",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s511",
+    "id": "793306",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Philippe Pradal",
+    "departement": "Alpes-Maritimes "
+  },
+  {
+    "place": "s512",
+    "id": "720100",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Aurélien Pradié",
+    "departement": "Lot "
+  },
+  {
+    "place": "s513",
+    "id": "719578",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Loïc Prud'homme",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s480",
+    "id": "795406",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Isabelle Périgault",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s514",
+    "id": "720422",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Adrien Quatennens",
+    "departement": "Nord "
+  },
+  {
+    "place": "s515",
+    "id": "609590",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Valérie Rabault",
+    "departement": "Tarn-et-Garonne "
+  },
+  {
+    "place": "s516",
+    "id": "795966",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Stéphane Rambaud",
+    "departement": "Var "
+  },
+  {
+    "place": "s517",
+    "id": "720092",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Richard Ramos",
+    "departement": "Loiret "
+  },
+  {
+    "place": "s518",
+    "id": "793230",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Angélique Ranc",
+    "departement": "Aube "
+  },
+  {
+    "place": "s519",
+    "id": "793254",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Julien Rancoule",
+    "departement": "Aude "
+  },
+  {
+    "place": "s520",
+    "id": "721062",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Jean-Hugues Ratenon",
+    "departement": "Réunion "
+  },
+  {
+    "place": "s522",
+    "id": "720552",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Isabelle Rauch",
+    "departement": "Moselle "
+  },
+  {
+    "place": "s523",
+    "id": "794154",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Jean-Claude Raux",
+    "departement": "Loire-Atlantique "
+  },
+  {
+    "place": "s524",
+    "id": "793094",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Nicolas Ray",
+    "departement": "Allier "
+  },
+  {
+    "place": "s525",
+    "id": "722398",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Rémy Rebeyrotte",
+    "departement": "Saône-et-Loire "
+  },
+  {
+    "place": "s526",
+    "id": "721678",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Robin Reda",
+    "departement": "Essonne "
+  },
+  {
+    "place": "s527",
+    "id": "794778",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Sandra Regol",
+    "departement": "Bas-Rhin "
+  },
+  {
+    "place": "s528",
+    "id": "335758",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Franck Riester",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s530",
+    "id": "720900",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Cécile Rilhac",
+    "departement": "Val-d'Oise "
+  },
+  {
+    "place": "s531",
+    "id": "795876",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Davy Rimane",
+    "departement": "Guyane "
+  },
+  {
+    "place": "s532",
+    "id": "721426",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Véronique Riotton",
+    "departement": "Haute-Savoie "
+  },
+  {
+    "place": "s533",
+    "id": "720066",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Stéphanie Rist",
+    "departement": "Loiret "
+  },
+  {
+    "place": "s534",
+    "id": "722252",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Marie-Pierre Rixain",
+    "departement": "Essonne "
+  },
+  {
+    "place": "s536",
+    "id": "794442",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Laurence Robert-Dehault",
+    "departement": "Haute-Marne "
+  },
+  {
+    "place": "s537",
+    "id": "795528",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Charles Rodwell",
+    "departement": "Yvelines "
+  },
+  {
+    "place": "s538",
+    "id": "266808",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Vincent Rolland",
+    "departement": "Savoie "
+  },
+  {
+    "place": "s539",
+    "id": "793884",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Sébastien Rome",
+    "departement": "Hérault "
+  },
+  {
+    "place": "s540",
+    "id": "721458",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Xavier Roseren",
+    "departement": "Haute-Savoie "
+  },
+  {
+    "place": "s541",
+    "id": "342196",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Claudia Rouaux",
+    "departement": "Ille-et-Vilaine "
+  },
+  {
+    "place": "s542",
+    "id": "795410",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Béatrice Roullaud",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s543",
+    "id": "795076",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Sandrine Rousseau",
+    "departement": "Paris "
+  },
+  {
+    "place": "s544",
+    "id": "720692",
+    "civ": "M.",
+    "circo": "(20 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Fabien Roussel",
+    "departement": "Nord "
+  },
+  {
+    "place": "s546",
+    "id": "793270",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean-François Rousset",
+    "departement": "Aveyron "
+  },
+  {
+    "place": "s547",
+    "id": "340643",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Lionel Royer-Perreaut",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s548",
+    "id": "722292",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Thomas Rudigoz",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s549",
+    "id": "722142",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "François Ruffin",
+    "departement": "Somme "
+  },
+  {
+    "place": "s550",
+    "id": "794894",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Anaïs Sabatini",
+    "departement": "Pyrénées-Orientales "
+  },
+  {
+    "place": "s551",
+    "id": "794570",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Alexandre Sabatou",
+    "departement": "Oise "
+  },
+  {
+    "place": "s552",
+    "id": "794626",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Non inscrit",
+    "sigle": "NI",
+    "nom": "Benjamin Saint-Huile",
+    "departement": "Nord "
+  },
+  {
+    "place": "s553",
+    "id": "720138",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Laetitia Saint-Paul",
+    "departement": "Maine-et-Loire "
+  },
+  {
+    "place": "s554",
+    "id": "795982",
+    "civ": "M.",
+    "circo": "(11 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Aurélien Saintoul",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s555",
+    "id": "793724",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Michel Sala",
+    "departement": "Gard "
+  },
+  {
+    "place": "s557",
+    "id": "794954",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Emeric Salmon",
+    "departement": "Haute-Saône "
+  },
+  {
+    "place": "s558",
+    "id": "605745",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Nicolas Sansu",
+    "departement": "Cher "
+  },
+  {
+    "place": "s559",
+    "id": "774960",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Isabelle Santiago",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s560",
+    "id": "610002",
+    "civ": "Mme",
+    "circo": "(8 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Eva Sas",
+    "departement": "Paris "
+  },
+  {
+    "place": "s561",
+    "id": "340343",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Hervé Saulignac",
+    "departement": "Ardèche "
+  },
+  {
+    "place": "s564",
+    "id": "721314",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Raphaël Schellenberger",
+    "departement": "Haut-Rhin "
+  },
+  {
+    "place": "s565",
+    "id": "796050",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Philippe Schreck",
+    "departement": "Var "
+  },
+  {
+    "place": "s566",
+    "id": "795808",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Sabrina Sebaihi",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s567",
+    "id": "794410",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Vincent Seitlinger",
+    "departement": "Moselle "
+  },
+  {
+    "place": "s568",
+    "id": "757225",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Mikaele Seo",
+    "departement": "Wallis-et-Futuna "
+  },
+  {
+    "place": "s569",
+    "id": "722308",
+    "civ": "Mme",
+    "circo": "(8 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Nathalie Serre",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s570",
+    "id": "720960",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Olivier Serva",
+    "departement": "Guadeloupe "
+  },
+  {
+    "place": "s571",
+    "id": "796018",
+    "civ": "Mme",
+    "circo": "(15 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Danielle Simonnet",
+    "departement": "Paris "
+  },
+  {
+    "place": "s572",
+    "id": "794802",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Charles Sitzenstuhl",
+    "departement": "Bas-Rhin "
+  },
+  {
+    "place": "s573",
+    "id": "720190",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Bertrand Sorre",
+    "departement": "Manche "
+  },
+  {
+    "place": "s574",
+    "id": "795466",
+    "civ": "Mme",
+    "circo": "(7 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Ersilia Soudais",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s576",
+    "id": "794486",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Violette Spillebout",
+    "departement": "Nord "
+  },
+  {
+    "place": "s577",
+    "id": "793744",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Anne Stambach-Terrenoir",
+    "departement": "Haute-Garonne "
+  },
+  {
+    "place": "s578",
+    "id": "720754",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Bruno Studer",
+    "departement": "Bas-Rhin "
+  },
+  {
+    "place": "s580",
+    "id": "267794",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Michèle Tabarot",
+    "departement": "Alpes-Maritimes "
+  },
+  {
+    "place": "s581",
+    "id": "720952",
+    "civ": "M.",
+    "circo": "(10 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Aurélien Taché",
+    "departement": "Val-d'Oise "
+  },
+  {
+    "place": "s582",
+    "id": "793382",
+    "civ": "M.",
+    "circo": "(16 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Emmanuel Taché de la Pagerie",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s583",
+    "id": "736201",
+    "civ": "Mme",
+    "circo": "(11 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Sophie Taillé-Polian",
+    "departement": "Val-de-Marne "
+  },
+  {
+    "place": "s584",
+    "id": "794178",
+    "civ": "M.",
+    "circo": "(6 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Jean-Pierre Taite",
+    "departement": "Loire "
+  },
+  {
+    "place": "s585",
+    "id": "795778",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Jean-Philippe Tanguy",
+    "departement": "Somme "
+  },
+  {
+    "place": "s586",
+    "id": "719550",
+    "civ": "Mme",
+    "circo": "(7 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Liliana Tanguy",
+    "departement": "Finistère "
+  },
+  {
+    "place": "s587",
+    "id": "794930",
+    "civ": "Mme",
+    "circo": "(13 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Sarah Tanzilli",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s588",
+    "id": "793796",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Non inscrit",
+    "sigle": "NI",
+    "nom": "David Taupiac",
+    "departement": "Gers "
+  },
+  {
+    "place": "s589",
+    "id": "718860",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Bénédicte Taurine",
+    "departement": "Ariège "
+  },
+  {
+    "place": "s590",
+    "id": "794106",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Andrée Taurinya",
+    "departement": "Loire "
+  },
+  {
+    "place": "s591",
+    "id": "794166",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Matthias Tavel",
+    "departement": "Loire-Atlantique "
+  },
+  {
+    "place": "s592",
+    "id": "794502",
+    "civ": "M.",
+    "circo": "(12 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Michaël Taverne",
+    "departement": "Nord "
+  },
+  {
+    "place": "s593",
+    "id": "794650",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Jean-Marc Tellier",
+    "departement": "Pas-de-Calais "
+  },
+  {
+    "place": "s594",
+    "id": "721584",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean Terlier",
+    "departement": "Tarn "
+  },
+  {
+    "place": "s595",
+    "id": "795920",
+    "civ": "Mme",
+    "circo": "(8 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Prisca Thevenot",
+    "departement": "Hauts-de-Seine "
+  },
+  {
+    "place": "s599",
+    "id": "793948",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Écologiste - Nupes",
+    "sigle": "Écologiste",
+    "nom": "Nicolas Thierry",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s600",
+    "id": "719822",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Sabine Thillaye",
+    "departement": "Indre-et-Loire "
+  },
+  {
+    "place": "s596",
+    "id": "722336",
+    "civ": "M.",
+    "circo": "(9 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Vincent Thiébaut",
+    "departement": "Bas-Rhin "
+  },
+  {
+    "place": "s597",
+    "id": "643089",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Jean-Louis Thiériot",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s601",
+    "id": "793816",
+    "civ": "Mme",
+    "circo": "(6 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Mélanie Thomin",
+    "departement": "Finistère "
+  },
+  {
+    "place": "s602",
+    "id": "720014",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Huguette Tiegna",
+    "departement": "Lot "
+  },
+  {
+    "place": "s603",
+    "id": "793298",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Lionel Tivoli",
+    "departement": "Alpes-Maritimes "
+  },
+  {
+    "place": "s604",
+    "id": "607395",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Stéphane Travert",
+    "departement": "Manche "
+  },
+  {
+    "place": "s606",
+    "id": "795164",
+    "civ": "Mme",
+    "circo": "(9 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Aurélie Trouvé",
+    "departement": "Seine-Saint-Denis "
+  },
+  {
+    "place": "s607",
+    "id": "722162",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Nicolas Turquois",
+    "departement": "Vienne "
+  },
+  {
+    "place": "s609",
+    "id": "608695",
+    "civ": "Mme",
+    "circo": "(4 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Cécile Untermaier",
+    "departement": "Saône-et-Loire "
+  },
+  {
+    "place": "s610",
+    "id": "721482",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "David Valence",
+    "departement": "Vosges "
+  },
+  {
+    "place": "s611",
+    "id": "643134",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Isabelle Valentin",
+    "departement": "Haute-Loire "
+  },
+  {
+    "place": "s612",
+    "id": "719930",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Boris Vallaud",
+    "departement": "Landes "
+  },
+  {
+    "place": "s614",
+    "id": "795350",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Frédéric Valletoux",
+    "departement": "Seine-et-Marne "
+  },
+  {
+    "place": "s615",
+    "id": "795596",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Paul Vannier",
+    "departement": "Val-d'Oise "
+  },
+  {
+    "place": "s616",
+    "id": "720586",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Pierre Vatin",
+    "departement": "Oise "
+  },
+  {
+    "place": "s619",
+    "id": "794118",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Antoine Vermorel-Marques",
+    "departement": "Loire "
+  },
+  {
+    "place": "s620",
+    "id": "720704",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Laurence Vichnievsky",
+    "departement": "Puy-de-Dôme "
+  },
+  {
+    "place": "s621",
+    "id": "794494",
+    "civ": "M.",
+    "circo": "(11 circonscription)",
+    "groupe": "Socialistes et apparentés (membre de l’intergroupe Nupes)",
+    "sigle": "SOC",
+    "nom": "Roger Vicot",
+    "departement": "Nord "
+  },
+  {
+    "place": "s623",
+    "id": "722102",
+    "civ": "Mme",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Annie Vidal",
+    "departement": "Seine-Maritime "
+  },
+  {
+    "place": "s624",
+    "id": "607090",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Jean-Pierre Vigier",
+    "departement": "Haute-Loire "
+  },
+  {
+    "place": "s625",
+    "id": "331582",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Démocrate (MoDem et Indépendants)",
+    "sigle": "MODEM",
+    "nom": "Philippe Vigier",
+    "departement": "Eure-et-Loir "
+  },
+  {
+    "place": "s626",
+    "id": "606639",
+    "civ": "M.",
+    "circo": "(9 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Patrick Vignal",
+    "departement": "Hérault "
+  },
+  {
+    "place": "s627",
+    "id": "719512",
+    "civ": "Mme",
+    "circo": "(3 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Corinne Vignon",
+    "departement": "Haute-Garonne "
+  },
+  {
+    "place": "s628",
+    "id": "794946",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Antoine Villedieu",
+    "departement": "Haute-Saône "
+  },
+  {
+    "place": "s629",
+    "id": "421348",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "André Villiers",
+    "departement": "Yonne "
+  },
+  {
+    "place": "s630",
+    "id": "794914",
+    "civ": "M.",
+    "circo": "(7 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Alexandre Vincendet",
+    "departement": "Rhône "
+  },
+  {
+    "place": "s632",
+    "id": "795026",
+    "civ": "Mme",
+    "circo": "(5 circonscription)",
+    "groupe": "Horizons et apparentés",
+    "sigle": "Horizons",
+    "nom": "Anne-Cécile Violland",
+    "departement": "Haute-Savoie "
+  },
+  {
+    "place": "s633",
+    "id": "721474",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Les Républicains",
+    "sigle": "LR",
+    "nom": "Stéphane Viry",
+    "departement": "Vosges "
+  },
+  {
+    "place": "s634",
+    "id": "721170",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Stéphane Vojetta",
+    "departement": "Français établis hors de France "
+  },
+  {
+    "place": "s636",
+    "id": "793194",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Lionel Vuibert",
+    "departement": "Ardennes "
+  },
+  {
+    "place": "s637",
+    "id": "721262",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Guillaume Vuilletet",
+    "departement": "Val-d'Oise "
+  },
+  {
+    "place": "s618",
+    "id": "642788",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Olivier Véran",
+    "departement": "Isère "
+  },
+  {
+    "place": "s638",
+    "id": "793110",
+    "civ": "M.",
+    "circo": "(2 circonscription)",
+    "groupe": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "sigle": "LFI",
+    "nom": "Léo Walter",
+    "departement": "Alpes-de-Haute-Provence "
+  },
+  {
+    "place": "s639",
+    "id": "2952",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Jean-Luc Warsmann",
+    "departement": "Ardennes "
+  },
+  {
+    "place": "s640",
+    "id": "720992",
+    "civ": "M.",
+    "circo": "(1 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Jiovanny William",
+    "departement": "Martinique "
+  },
+  {
+    "place": "s642",
+    "id": "2960",
+    "civ": "M.",
+    "circo": "(4 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Éric Woerth",
+    "departement": "Oise "
+  },
+  {
+    "place": "s643",
+    "id": "722110",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Gauche démocrate et républicaine - Nupes",
+    "sigle": "GDR",
+    "nom": "Hubert Wulfranc",
+    "departement": "Seine-Maritime "
+  },
+  {
+    "place": "s644",
+    "id": "796078",
+    "civ": "Mme",
+    "circo": "(1 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Estelle Youssouffa",
+    "departement": "Mayotte "
+  },
+  {
+    "place": "s645",
+    "id": "718962",
+    "civ": "M.",
+    "circo": "(8 circonscription)",
+    "groupe": "Renaissance",
+    "sigle": "Renaissance",
+    "nom": "Jean-Marc Zulesi",
+    "departement": "Bouches-du-Rhône "
+  },
+  {
+    "place": "s156",
+    "id": "942",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Libertés, Indépendants, Outre-mer et Territoires",
+    "sigle": "LIOT",
+    "nom": "Charles de Courson",
+    "departement": "Marne "
+  },
+  {
+    "place": "s226",
+    "id": "793964",
+    "civ": "M.",
+    "circo": "(5 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Grégoire de Fournas",
+    "departement": "Gironde "
+  },
+  {
+    "place": "s370",
+    "id": "642988",
+    "civ": "M.",
+    "circo": "(3 circonscription)",
+    "groupe": "Rassemblement National",
+    "sigle": "RN",
+    "nom": "Hervé de Lépinau",
+    "departement": "Vaucluse "
+  }
+]

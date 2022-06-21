@@ -1,5 +1,6 @@
 import os
-from pymongo import MongoClient
+
+from pymongo import MongoClient, DESCENDING
 from pymongo.errors import BulkWriteError
 from requests import get
 from pandas import DataFrame, merge
@@ -20,7 +21,7 @@ client_config = db['x-config']
 
 
 my_rule = {
-	'url': 'https://www.assemblee-nationale.fr/dyn/15/amendements?date_depot={}&page={}',
+	'url': 'https://www.assemblee-nationale.fr/dyn/16/amendements?date_depot={}&page={}',
 	'item_start': 1,
 	'item_end': 20,
 	'web_uri': {
@@ -96,7 +97,7 @@ def get_data(html_lxml, rule):
 	for item_nb in range(rule['item_start'], rule['item_end']):
 		# try:
 		dom_elements = html_lxml.xpath(rule['web_uri']['xpath'].format(
-			eval(rule['web_uri']['xpath_param'].format(item_nb))))#[0]
+			eval(rule['web_uri']['xpath_param'].format(item_nb))))  # [0]
 		if dom_elements and len(dom_elements):
 			dom_element = dom_elements[0]
 		else:
@@ -252,33 +253,24 @@ def search_api_uri(web_uri):
 	return search(r'/dyn/\S*\.json', str(documents_text))[0]
 
 
+@LogDecorator()
 def check_nb_amendements(html_lxml, date_search):
 	"""
-	FIXME verify it is working (no document found)
 	Check the nb of amendements found in the search (the nb of amendements is displayed on the page search)
 	If it is outdated or different from the last search, it stores the new config in the db
 	:param html_lxml:
 	:param date_search:
 	:return: nb of amendements found if outdated or different than before, 0 otherwise
 	"""
-	config = client_config.find_one({})
-	print(config)
-	if 'nb_amendements' not in config or config['date_dernier_releve'] != date_search:
-		config['date_dernier_releve'] = date_search
-		config['nb_amendements'] = 0
-
 	nb_amendements = html_lxml.xpath('//*[@id="amendementListFrame"]/div/div[1]/div[1]/div/div/div[2]')
-	if nb_amendements:
-		nb_amendements = search(r'\d+', nb_amendements[0].text_content())[0]
-	print(nb_amendements)
+	nb_amendements = int(search(r'\d+', nb_amendements[0].text_content())[0]) if nb_amendements else 0
 
-	if config['nb_amendements'] != nb_amendements:
-		print('!!')
-		config['nb_amendements'] = nb_amendements
-		client_config.replace_one({}, config)
-		return nb_amendements
-	else:
-		return 0
+	config = client_config.find({}).sort([("_id", DESCENDING)]).limit(1)[0]
+	has_new_amendements = config['nb_amendements'] != nb_amendements
+
+	client_config.insert_one({"nb_amendements": nb_amendements})
+
+	return nb_amendements if has_new_amendements else 0
 
 
 def do_work():
@@ -296,10 +288,8 @@ def do_work():
 
 		html_lxml = html.fromstring(html_content)
 
-		if page == 1:
-			nb_ame = check_nb_amendements(html_lxml, date_search)
-			if nb_ame == 0:
-				break
+		if page == 1 and not check_nb_amendements(html_lxml, date_search):
+			break
 
 		try:
 			df = get_data(html_lxml, my_rule)
@@ -323,3 +313,7 @@ def do_work():
 	print("{} amendements importés".format(nb_data_imported))
 
 	return 0
+
+
+if __name__ == "__main__":
+	do_work()

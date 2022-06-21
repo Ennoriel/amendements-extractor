@@ -1,0 +1,17 @@
+Resources:
+  Function:
+    Type: AWS::Serverless::Function
+    Properties:
+      Timeout: 300
+      MemorySize: 128
+      Handler: app.lambda_handler
+      CodeUri: D:\amendements-extractor\src
+      Runtime: python3.9
+      Architectures:
+        - x86_64
+      Environment:
+        Variables:
+          ENV: dev
+          AN_URL: https://www.assemblee-nationale.fr
+          MONGO_DB: __MONGO_DB__
+          MONGO_URL: __MONGO_URL__
