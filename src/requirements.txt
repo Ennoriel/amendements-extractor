@@ -1,4 +1,4 @@
-pymongo
+pymongo[srv]
 requests
 pandas
 lxml
