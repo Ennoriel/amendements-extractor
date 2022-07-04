@@ -16,8 +16,8 @@ is_dev = os.environ['ENV'] == 'dev'
 mongo_db = os.environ['MONGO_DB']
 mongo_url = os.environ['MONGO_URL']
 db = MongoClient(mongo_url, retryWrites=False, w=1)[mongo_db]
-client = db['x-amendements']
-client_config = db['x-config']
+client = db['amendements-16']
+client_config = db['config-16']
 
 
 my_rule = {
@@ -265,8 +265,9 @@ def check_nb_amendements(html_lxml, date_search):
 	nb_amendements = html_lxml.xpath('//*[@id="amendementListFrame"]/div/div[1]/div[1]/div/div/div[2]')
 	nb_amendements = int(search(r'\d+', nb_amendements[0].text_content())[0]) if nb_amendements else 0
 
-	config = client_config.find({}).sort([("_id", DESCENDING)]).limit(1)[0]
-	has_new_amendements = config['nb_amendements'] != nb_amendements
+	config = client_config.find({}).sort([("_id", DESCENDING)]).limit(1)
+	count = config.explain().get("executionStats", {}).get("nReturned")
+	has_new_amendements = config[0]['nb_amendements'] != nb_amendements if count else False
 
 	client_config.insert_one({"nb_amendements": nb_amendements})
 
